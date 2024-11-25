@@ -50,6 +50,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" height="40" alt="karma logo"  />
 </div>
 
+<br>
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yurani21V&show_icons=true&locale=en&layout=compact" alt="yurani21V" /></p>
 

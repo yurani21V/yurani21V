@@ -1,28 +1,22 @@
 <h1 align="center">Hi 👋, I'm Yurani Rangel</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=A+passionate+backend+developer+" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E616F7FF&center=true&vCenter=true&width=435&lines=A+passionate+frontend+developer+" alt="Typing SVG" /></a></h3>
 
-<p align="center"> <a href="https://twitter.com/desiapg" target="blank"><img src="https://img.shields.io/twitter/follow/desiapg?logo=twitter&style=for-the-badge" alt="desiapg" /></a> </p>
 
 - 🔭 I’m currently working on **improve my programming skills**
 
-- 🌱 I’m currently learning **Spring boot and Angular**
+- 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on **backend projects**
+- 👯 I’m looking to collaborate on **frontend projects**
 
 - 🤝 I’m looking for help with **real projects to work in**
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
+- 💬 Ask me about **Angular**
 
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **duvanmaringesan10@gmail.com**
+- 📫 How to reach me **yuraniandrearangelvanegas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/desiapg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="desiapg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/duvan marin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duvan marin" height="30" width="40" /></a>
-<a href="https://medium.com/@desireeeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@desireeeee" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/desii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="desii" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/](https://www.linkedin.com/in/yurani-andrea-rangel-vanegas-43720827a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yura" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,10 +50,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" height="40" alt="karma logo"  />
 </div>
 
-###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=desiapg&show_icons=true&locale=en&layout=compact" alt="desiapg" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yurani21V&show_icons=true&locale=en&layout=compact" alt="yurani21V" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=desiapg&show_icons=true&locale=en" alt="desiapg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yurani21V&show_icons=true&locale=en" alt="yurani21V" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desiapg&" alt="desiapg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yurani21V&" alt="yurani21V" /></p>
